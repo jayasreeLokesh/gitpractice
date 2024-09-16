@@ -1,6 +1,5 @@
 Hello world
 take input from user
 iam jayasree
-
 Create a new avatar
 Have login and logout
