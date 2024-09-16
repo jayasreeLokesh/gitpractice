@@ -3,3 +3,4 @@ take input from user
 iam jayasree
 
 Create a new avatar
+Execute code2
