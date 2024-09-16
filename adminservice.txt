@@ -1,2 +1,5 @@
 user data entered
 credentials given
+change roles
+Manage the data base
+
